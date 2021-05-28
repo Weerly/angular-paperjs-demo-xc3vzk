@@ -1,0 +1,10 @@
+p {
+  font-family: Lato;
+}
+
+canvas {
+  width: 200px;
+  height: 200px;
+  border: 1px solid rgb(204, 195, 195);
+  margin: 5px;
+}
